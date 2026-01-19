@@ -8,7 +8,7 @@ Projeto simples desenvolvido em **linguagem C**, que implementa o clássico **Jo
 - Verificação automática de vitória ou empate
 - Entrada de dados por linha e coluna
 
-## Tecnologias utilizadas
+## Utilizados
 - Linguagem C
 - Compilador GCC
 
