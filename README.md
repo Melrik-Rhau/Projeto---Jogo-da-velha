@@ -2,17 +2,17 @@
 
 Projeto simples desenvolvido em **linguagem C**, que implementa o clássico **Jogo da Velha** para execução no terminal.
 
-## 📌 Funcionalidades
+## Funcionalidades
 - Dois jogadores (X e O)
 - Interface organizada no terminal
 - Verificação automática de vitória ou empate
 - Entrada de dados por linha e coluna
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Linguagem C
 - Compilador GCC
 
-## ▶️ Como compilar
+## Como compilar
 No terminal, execute:
 ```bash
 gcc tabuleiro.c -o jogo
